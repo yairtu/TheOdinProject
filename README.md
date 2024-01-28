@@ -1,1 +1,2 @@
-# TheOdinProject
+# Odin
+Hello Odin!

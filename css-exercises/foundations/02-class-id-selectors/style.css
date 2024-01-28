@@ -1,0 +1,21 @@
+* {
+    font-family: "Verdana";
+}
+
+.ps {
+    background-color: pink;
+}
+
+.cooler {
+    font-size: larger;
+}
+
+#div1 {
+    color: blue;
+    font-size: x-large;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-weight: 700;
+}
